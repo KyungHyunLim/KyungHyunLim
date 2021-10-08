@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KyungHyunLim
-- 👀 I’m interested in AI, ML, GAN, Image translation, Abnormaly detection, Noise suppression, Speech recognition
+- 👀 I’m interested in AI, ML, GAN, NLP, Image translation, Abnormaly detection, Noise suppression, Speech recognition
 - 📫 How to reach me fly1294@naver.com
 
 <!---
